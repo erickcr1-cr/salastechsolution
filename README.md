@@ -1,8 +1,16 @@
-![Auto Assign](https://github.com/erickcr1-cr/fictional-eureka-demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# Auto Assign Proof HTML
 
-![Proof HTML](https://github.com/erickcr1-cr/fictional-eureka-demo-repository/actions/workflows/proof-html.yml/badge.svg)
+## Welcome to Your Organization's Demo Repository
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with minimal complexity.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+### Included Features:
+- `index.html` file for web page rendering.
+- Two **GitHub Actions workflows** to showcase automation.
+- A **CSS stylesheet** dependency for styling.
+
+### Contact Information:
+- 📞 **Phone:** +52-322-241-3898
+- 📍 **Location:** Mexico
+
+Feel free to explore and contribute to improve this repository further!
